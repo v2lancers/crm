@@ -349,7 +349,8 @@ $cv = $this->controller->view_data['custom_values'];
 
                     <div class="panel-body">
                         <div class="form-group">
-                            <label for="client_vat_id"><?php _trans('vat_id'); ?></label>
+                            <!-- <label for="client_vat_id"><?php //_trans('vat_id'); ?></label> -->
+                            <label for="client_vat_id">GSTIN</label>
 
                             <div class="controls">
                                 <input type="text" name="client_vat_id" id="client_vat_id" class="form-control"
