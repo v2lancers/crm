@@ -4,8 +4,6 @@
 /ipconfig.php
 
 # Dependencies
-/node_modules
-/vendor
 
 # Other files
 /.htaccess
